@@ -1,7 +1,7 @@
 # cryptocurrency-news-api
-Cryptocurrency news API from differents crypto news websites.
+Cryptocurrency news API from differents news websites.
 
-Used:
--Express.js to run the server.
--Axios to get our data.
--Cheerio for the web scrapping tasks.
+Used:<br/>
+-Express.js to run the server.<br/>
+-Axios to get our data.<br/>
+-Cheerio for web scrapping tasks.
